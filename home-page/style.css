@@ -1,0 +1,80 @@
+@font-face {
+  font-family: "FluxischElse";
+  src: url("FluxischElse-Bold.otf") format("opentype");
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    background-color: #F3F8F3;
+}
+
+
+.site-header {
+    background-color: #5a5652;
+    text-align: center; 
+}
+
+.logo {
+    max-width: 100%;
+    height: 180px;
+    width: auto;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.header-site-nav {
+    font-size: 30px;
+    background-color: #597377;
+    color: #F3F8F3;
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 0.05em;
+}
+.nav-list {
+    font-family: cc-monstrosity-brain, sans-serif;
+    font-style: normal;
+    font-size: 40px;
+    color: #F3F8F3;
+    list-style-type: none;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+.nav-list a {
+    text-decoration: none;
+    color: #F3F8F3;
+}
+.site-main {
+    font-family: "FluxischElse", sans-serif;
+    padding: 100px 200px;
+}
+.headings {
+    color: #4e4f51;
+    font-size: 50px;
+    letter-spacing: 0.05em;
+    padding: 25px 0px;
+}
+.paragraphs {
+    color: #6b6c6e;
+    font-size: 20px; 
+    line-height: 1.6;
+    letter-spacing: 0.02em;
+    padding: 25px 10px;
+}
+.site-footer {
+    background-color: #966e6d;
+    padding: 10px 0px;
+}
+.bench {
+    max-width: 100%;
+    height: 40px;
+    width: auto;
+    align-items: left;
+    padding-left: 10px;
+}
