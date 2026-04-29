@@ -1,0 +1,181 @@
+.interactive-bench {
+    max-width: 100%;
+    height: 650px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+.home-interactive-section {
+    padding: 60px 0px 120px 0px;
+    position: relative;
+}
+
+
+
+.bottlecap-home {
+  position: absolute;
+  left: 29%;
+  top: 50%;
+  height: 80px;
+  width: auto;
+  cursor: pointer;
+  transition: transform 0.2s;
+  transform-origin: center center;
+}
+
+.bottlecap-home:hover {
+  transform: translate(-50%, -50%) scale(2);
+}
+
+
+
+.chapstick-home {
+  position: absolute;
+  left: 46%;
+  top: 71%;
+  height: 80px;
+  width: auto;
+  cursor: pointer;
+  transition: transform 0.2s;
+  transform-origin: center center;
+}
+
+.chapstick-home:hover {
+  transform: translate(-50%, -50%) scale(2);
+}
+
+
+
+.rings-home {
+  position: absolute;
+  left: 12%;
+  top: 45%;
+  height: 80px;
+  width: auto;
+  cursor: pointer;
+  transition: transform 0.2s;
+  transform-origin: center center;
+}
+
+.rings-home:hover {
+    transform: translate(-50%, -50%) scale(2);
+}
+
+
+
+.banana-home {
+  position: absolute;
+  left: 14%;
+  top: 74%;
+  height: 80px;
+  width: auto;
+  cursor: pointer;
+  transition: transform 0.2s;
+  transform-origin: center center;
+}
+
+.banana-home:hover {
+    transform: translate(-50%, -50%) scale(2);
+}
+
+
+
+.cigarettes-home {
+  position: absolute;
+  left: 80%;
+  top: 72%;
+  height: 80px;
+  width: auto;
+  cursor: pointer;
+  transition: transform 0.2s;
+  transform-origin: center center;
+}
+
+.cigarettes-home:hover {
+    transform: translate(-50%, -50%) scale(2);
+}
+
+
+
+.floss-pick-home {
+  position: absolute;
+  left: 82%;
+  top: 48%;
+  height: 80px;
+  width: auto;
+  cursor: pointer;
+  transition: transform 0.2s;
+  transform-origin: center center;
+}
+
+.floss-pick-home:hover {
+    transform: translate(-50%, -50%) scale(2);
+}
+
+
+
+.bulldog-home {
+  position: absolute;
+  left: 56%;
+  top: 47%;
+  height: 80px;
+  width: auto;
+  cursor: pointer;
+  transition: transform 0.2s;
+  transform-origin: center center;
+}
+
+.bulldog-home:hover {
+    transform: translate(-50%, -50%) scale(2);
+}
+
+
+
+.lighter-home {
+  position: absolute;
+  left: 72%;
+  top: 52%;
+  height: 80px;
+  width: auto;
+  cursor: pointer;
+  transition: transform 0.2s;
+  transform-origin: center center;
+}
+
+.lighter-home:hover {
+    transform: translate(-50%, -50%) scale(2);
+}
+
+
+
+.thumbtack-home {
+  position: absolute;
+  left: 18%;
+  top: 59%;
+  height: 80px;
+  width: auto;
+  cursor: pointer;
+  transition: transform 0.2s;
+  transform-origin: center center;
+}
+
+.thumbtack-home:hover {
+    transform: translate(-50%, -50%) scale(2);
+}
+
+
+
+.bell-home {
+  position: absolute;
+  left: 60%;
+  top: 60%;
+  height: 80px;
+  width: auto;
+  cursor: pointer;
+  transition: transform 0.2s;
+  transform-origin: center center;
+}
+
+.bell-home:hover {
+    transform: translate(-50%, -50%) scale(2);
+}

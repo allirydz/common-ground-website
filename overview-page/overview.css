@@ -1,0 +1,156 @@
+.sketches {
+  position: relative;
+  left: 65px;
+  height: 180px;
+  width: auto;
+  display: block;
+  margin-bottom: 50px;
+}
+.palette {
+  position: relative;
+  left: 5%;
+  height: 180px;
+  width: auto;
+  display: block;
+  margin-bottom: 50px; 
+}
+
+.object-row {
+    position: relative;
+  display: flex;
+  align-items: flex-end;
+  gap: 20px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  
+  
+}
+
+.ruler {
+  height: 70px;
+  width: auto;
+  margin-bottom: 50px;
+  margin-left: 75px;
+}
+.description {
+  font-family: "FluxischElse", sans-serif;
+  color: #6b6c6e;
+  font-size: 20px;
+  line-height: 1.6;
+  letter-spacing: 0.02em;
+  width: 500px;
+  margin-left: 75px;
+  margin-top: -75px;
+  padding-bottom: 50px;
+}
+.arrow {
+  height: 20px;
+  width: auto;
+  margin-bottom: 5px;
+  align-self: flex-start;
+  margin-left: 200px;
+}
+.ruler-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+
+
+
+.bottlecap-arrow-temp {
+  margin-left: 275px;
+}
+
+
+.bottlecap-arrow {
+  margin-left: 170px;
+}
+
+
+
+.chapstick-arrow {
+    margin-left: 250px;
+}
+.chapstick-ruler-group {
+  margin-left: 75px;
+}
+
+
+.rings-arrow {
+    margin-left: 170px;
+}
+.rings-ruler-group {
+  margin-left: 45px;
+}
+
+.banana-arrow {
+    margin-left: 480px;
+}
+.banana-ruler-group {
+  margin-left: 50px;
+}
+
+
+.cigarette-arrow {
+    margin-left: 310px;
+}
+.cigarette-ruler-group {
+  margin-left: 75px;
+}
+
+
+.floss-pick-arrow {
+    margin-left: 275px;
+}
+.floss-pick-ruler-group {
+  margin-left: 85px;
+}
+
+.bulldog-arrow {
+    margin-left: 145px;
+}
+
+.sketches-bulldog {
+  position: relative;
+  left: 70px;
+  height: 165px;
+  width: auto;
+  display: block;
+  margin-bottom: 50px;
+}
+
+
+.lighter-arrow {
+    margin-left: 300px;
+}
+.lighter-ruler-group {
+  margin-left: 80px;
+}
+
+
+.thumbtack-arrow {
+    margin-left: 120px;
+}
+.thumbtack-ruler-group {
+  margin-left: 55px;
+}
+
+
+.bell-arrow {
+    margin-left: 110px;
+}
+.bell-ruler-group {
+  margin-left: 70px;
+}
+
+
+.pamphlet {
+    max-width: 100%;
+    height: 450px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
