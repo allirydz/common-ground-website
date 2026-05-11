@@ -44,3 +44,28 @@
 .dropdown-trigger:hover .process-dropdown {
     display: block;
 }
+
+.about-pic {
+    margin-top: 60px;
+ max-width: 100%;
+  height: 400px;
+  width: auto;
+  
+}
+.about-container {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.about-container h2 {
+  margin-top: 0;
+}
+
+.about-container .heading-2 {
+  margin-top: 0;
+}
+
+.about-container .paragraphs {
+  margin-top: 0;
+}
